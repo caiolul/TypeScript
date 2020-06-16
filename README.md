@@ -1,0 +1,2 @@
+# TypeScript
+Conhecendo a linguagem
